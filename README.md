@@ -5,7 +5,7 @@
 <h2 align="center">Pursuing Btech in Computer Science ... An excited and interested learner</h2>
 <h3 align="center">Started with web development and c language</h3>
 
-
+<img align="right" alt="coding" width="200" src="https://i.imgur.com/rHlEdDq.gif">
 • passionate about coding • Looking forward to collaborate and contribute.
 
 
