@@ -40,7 +40,7 @@
 
 <hr>
 
-<h2 align="center">Thank You for visiting </h2>
+
 
 
   
