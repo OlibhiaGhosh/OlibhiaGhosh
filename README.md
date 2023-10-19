@@ -9,6 +9,9 @@
 • Passionate about coding • Looking forward to collaborate and contribute.
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OlibhiaGhosh&label=Profile%20views&color=0e75b6&style=flat" alt="OlibhiaGhosh" /> </p>
+
+
 ## 🌐 Socials:          [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/BLUECOREWINGS?t=1x4-2KbQJV0F7rYcqe1niw&s=08 )
 
 
