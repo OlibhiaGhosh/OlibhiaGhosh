@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=A13B3B&size=20&center=true&vCenter=true&lines=Welcome+to+my+Page+!!;I+am+excited+to+learn+and+grow;Interested+in+Web-Dev+and+coding...;Have+a+great+day+ahead+!!"></p>
 
-<!--
-**OlibhiaGhosh/OlibhiaGhosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hello everyone 👋, I'm Olibhia Ghosh</h1>
+<h2 align="center">Pursuing Btech in Computer Science ... An excited and interested learner</h2>
+<h3 align="center">Started with web development and c language</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+• passionate about coding • Looking forward to collaborate and contribute.
+
+
+
+
+
+
+- 🔭 I’m currently working on web development
+- 🌱 I’m currently learning C language
+- 💬 Ask me about python , sql , c language , web development.
+- 📫 How to reach me: **olibhiag@gmail.com**
+- ⚡ Fun fact: Ready for the Tech journey?
+  
