@@ -17,7 +17,7 @@
 
 
 - 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **C language**
+- 🌱 I’m currently learning **JAVA**
 - 💬 Ask me about **Python , Sql , C language , Web Development.**
 - 📫 How to reach me: **olibhiag@gmail.com**
 - ⚡ Fun fact: **Ready for the Tech journey?**
