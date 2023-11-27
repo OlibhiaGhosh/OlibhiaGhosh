@@ -1,3 +1,5 @@
+[![MasterHead](https://github.com/OlibhiaGhosh/OlibhiaGhosh/blob/main/LINKDIN%20BANNER.png)](https://github.com/OlibhiaGhosh)
+
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=A13B3B&size=20&center=true&vCenter=true&lines=!+!+Welcome+to+my+Profile+!+!;I+am+excited+to+learn+and+grow;Interested+in+Web-Dev+and+coding...;Have+a+great+day+ahead+!!"></p>
 
 
