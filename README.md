@@ -7,10 +7,11 @@ Olibhia Ghosh
 </h1>
 <p align="center"> Full Stack Developer, Technical Writer, Freelancer, Open source contributor</p>
 
-<div align="center"> <b>Socials:</b> <a href="https://twitter.com/OlibhiaGhosh"> Twitter </a></&nbsp> <span><a href="https://www.linkedin.com/in/olibhiaghosh/"> Linkedin </a></span>  <span><a href="https://olibhia.hashnode.dev/"> Hashnode </a></span> </div>  
-
-**Blogs:** [dev.to](https://dev.to/olibhiaghosh) 
- 
+<div align="center"> <b>Socials :</b> &emsp; <a href="https://twitter.com/OlibhiaGhosh">Twitter</a>  &emsp; <span><a href="https://www.linkedin.com/in/olibhiaghosh/">Linkedin</a></span> &emsp;  <span><a href="https://olibhia.hashnode.dev/">Hashnode</a></span> </div>  
+</br>
+<div align="center"> <b> Blogs :</b>&emsp; <a href="https://dev.to/olibhiaghosh"> dev.to </a> </div>
+</br>
+<div align="center"> <b>Reach me:&emsp; <a href="olibhia0712@gmail.com">olibhia0712@gmail.com</a></b> </div>
 
 
 
