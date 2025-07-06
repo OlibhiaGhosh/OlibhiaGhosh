@@ -11,7 +11,7 @@ Olibhia Ghosh
 </br>
 <div align="center"> <b> Blogs :</b>&emsp; <a href="https://dev.to/olibhiaghosh"> dev.to </a> </div>
 </br>
-<div align="center"> <b>Reach me:&emsp; <a href="olibhia0712@gmail.com">olibhia0712@gmail.com</a></b> </div>
+<div align="center"> <b>Reach me:&emsp; olibhia0712@gmail.com</b> </div>
 
 
 
