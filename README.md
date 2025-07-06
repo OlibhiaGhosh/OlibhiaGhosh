@@ -5,7 +5,7 @@
 
 <h1 align="center">Hello everyone 👋, I'm Olibhia Ghosh</h1>
 
-- 🖥️ **Frontend Developer**
+- 🖥️ **Full-Stack Developer**
 - 👨‍💻 **Technical writter**
 - 🌱 An **open-source enthusiast**
 - 🔭 I’m currently learning **Web Development** 
